@@ -1,0 +1,2 @@
+com/example/test/BaseApplication.class
+com/example/test/MainActivity.class
